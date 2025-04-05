@@ -1,2 +1,2 @@
 # hanatsu
-Anime Website 
+My Anime Themed Social Portal
